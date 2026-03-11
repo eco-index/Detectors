@@ -1,4 +1,4 @@
-The "Detectors" framework was the basis of the eco-Index observer products. This framework created the native forest observer product which segmented out New Zealand native forest types using Planet based satellite imagery, specifically 8 band multispectral images. These models were trained on primarily Land Cover Database landcover classifications but then integrated further classifications which were annotated by hand by the eco-Index team. 
+The observer framework was the basis of the eco-Index observer products. This framework created the native forest observer product which segmented out New Zealand native forest types using Planet based satellite imagery, specifically 8 band multispectral images. These models were trained on primarily Land Cover Database landcover classifications but then integrated further classifications which were annotated by hand by the eco-Index team. 
 
 files usage:
 
